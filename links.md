@@ -1,0 +1,2 @@
+- https://github.com/redis-developer
+- https://discord.com/channels/1127340805741359164/1327997273849856120
