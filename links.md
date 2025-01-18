@@ -1,2 +1,5 @@
 - https://github.com/redis-developer
 - https://discord.com/channels/1127340805741359164/1327997273849856120
+- https://github.com/redis-developer/redis-ai-resources
+- https://github.com/redis/redis-vl-python
+- https://github.com/redis-developer/redis-arxiv-search
